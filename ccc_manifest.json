@@ -4684,5 +4684,82 @@
     "games": 528,
     "url": "https://github.com/ianrastall/ccc-archive/raw/main/2025/251223-260102-ccc-25-rapid-main.zip",
     "sha256": "ac17b9e2cc705d58e2090257c070b73092f6fa3306887d89d1f1cbf35fb48bb7"
+  },
+  {
+    "pgn": "260104-260104-ccc-25-rapid-semifinals.pgn",
+    "zip": "260104-260104-ccc-25-rapid-semifinals.zip",
+    "year": 2026,
+    "start": "260104",
+    "end": "260104",
+    "event": "CCC 25 Rapid: Semifinals",
+    "games": 480,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/260104-260104-ccc-25-rapid-semifinals.zip",
+    "sha256": "7eac4b626c84afc8cb7a88703da6876cec5136c3c83cd85ba72f811e907a79b6"
+  },
+  {
+    "pgn": "260111-260116-ccc-25-rapid-challenger-match.pgn",
+    "zip": "260111-260116-ccc-25-rapid-challenger-match.zip",
+    "year": 2026,
+    "start": "260111",
+    "end": "260116",
+    "event": "CCC 25 Rapid: Challenger Match",
+    "games": 250,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/260111-260116-ccc-25-rapid-challenger-match.zip",
+    "sha256": "75fbcbcca5ba9de58b410168b258e1141b19b4751d46602012c6062a98e9d0a4"
+  },
+  {
+    "pgn": "260116-260121-ccc-25-rapid-finals.pgn",
+    "zip": "260116-260121-ccc-25-rapid-finals.zip",
+    "year": 2026,
+    "start": "260116",
+    "end": "260121",
+    "event": "CCC 25 Rapid: Finals",
+    "games": 250,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/260116-260121-ccc-25-rapid-finals.zip",
+    "sha256": "0a76d374cc8da3aae6f0491939c95a4f0bba34a4acb6b03be9181a05b3d34388"
+  },
+  {
+    "pgn": "260121-260126-ccc-25-rapid-fight-for-fourth.pgn",
+    "zip": "260121-260126-ccc-25-rapid-fight-for-fourth.zip",
+    "year": 2026,
+    "start": "260121",
+    "end": "260126",
+    "event": "CCC 25 Rapid: Fight for Fourth",
+    "games": 250,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/260121-260126-ccc-25-rapid-fight-for-fourth.zip",
+    "sha256": "32be56abe75d74ad7506e361c8280c0c5ef600a0a3a8f61bf4f2fcf39784d84a"
+  },
+  {
+    "pgn": "260126-260131-ccc-25-rapid-torch-vs-leela.pgn",
+    "zip": "260126-260131-ccc-25-rapid-torch-vs-leela.zip",
+    "year": 2026,
+    "start": "260126",
+    "end": "260131",
+    "event": "CCC 25 Rapid: Torch vs Leela",
+    "games": 250,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/260126-260131-ccc-25-rapid-torch-vs-leela.zip",
+    "sha256": "80e1785b8f4c0ff06e1b07a5c10fcf744e61f10e7d963f854a4bdf13d4ff777c"
+  },
+  {
+    "pgn": "260202-260202-ccc-25-bullet-qualifier-1.pgn",
+    "zip": "260202-260202-ccc-25-bullet-qualifier-1.zip",
+    "year": 2026,
+    "start": "260202",
+    "end": "260202",
+    "event": "CCC 25 Bullet: Qualifier #1",
+    "games": 1056,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/260202-260202-ccc-25-bullet-qualifier-1.zip",
+    "sha256": "2078a03bc9d6a20e5eb3d152721207fce0540a3c2ab99d4f2d4943bc92a6a064"
+  },
+  {
+    "pgn": "260205-260208-ccc-25-bullet-qualifier-2.pgn",
+    "zip": "260205-260208-ccc-25-bullet-qualifier-2.zip",
+    "year": 2026,
+    "start": "260205",
+    "end": "260208",
+    "event": "CCC 25 Bullet: Qualifier #2",
+    "games": 1056,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/260205-260208-ccc-25-bullet-qualifier-2.zip",
+    "sha256": "2bb6d008ad6585f774cfff4f2b6ad35a98b687cf30b453c4124a58bafd390369"
   }
 ]
