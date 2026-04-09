@@ -1,0 +1,54 @@
+[Event "Hardware Test Pt. 2"]
+[Site "https://www.chess.com/computer-chess-championship"]
+[Date "2026.03.16"]
+[Round "1"]
+[White "Stockfish"]
+[Black "Torch"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "nrbqkbrn/pppppp1p/6p1/8/8/6N1/PPPPPPPP/QBBRKNR1 w KQkq - 0 2"]
+[GameDuration "00:00:56"]
+[GameStartTime "2026-03-16T13:15:43 -0700"]
+[GameEndTime "2026-03-16T13:16:44 -0700"]
+[PlyCount "15"]
+[Termination "illegal move"]
+[TimeControl "60+1"]
+
+2. e4 {+1.13/29 13.842s, tl=48.158s, latency=0.001s, n=1268467218, sd=63, nps=91645633, hashfull=320, tbhits=1287, pv="e2e4 e7e6 d2d4 f7f5 f1d2 f5e4 g3e4 f8g7 a2a4 d7d5 e4g3 e8g8 d2f3 c7c5 c2c3 c8d7 d4c5 b7b6 c5b6 a8b6 b1c2 h8f7 e1g1 d8c7 a1a2 a7a5 f3d4 g8h8 f1e1 f7d6 d4e6 d7e6 e1e6 f8f2 c2b3 d6c4"}
+e6 {-0.93/33 7.961s, tl=54.039s, latency=-0.001s, n=912067798, sd=45, nps=114552599, hashfull=238, tbhits=523, pv="e7e6 d2d4 b7b5 f1d2 a8b6 e1g1 f8g7 e4e5 f7f5 e5f6 d8f6 d2e4 f6e7 c1g5 e7f8 c2c3 h8f7 f2f4 b5b4 d1e1 b4c3 b2c3 c8a6 f1f2 f8a3 g5f6 e8g8 f6g7 g8g7 c3c4 b6c4 e4c5 a6c8 b1d3 f7d6 f2c2 b8b2 c2c4"}
+3. d4 {+1.09/24 1.734s, tl=47.424s, latency=0.000s, n=183440255, sd=39, nps=105790227, hashfull=41, tbhits=33, pv="d2d4 f7f5 c2c4 f8g7 f1d2 e8g8 e1g1 h8f7 f1e1 g7d4 d2f3 d4f6 c4c5 c7c6 e4f5 e6f5 c1f4 a8c7 b1f5 g6f5 g3h5 f6h8 a1c1 d7d5 d1d3 c8d7 f3g5 f8e8 e1e8 d7e8"}
+b5 {-0.88/28 2.308s, tl=52.731s, latency=0.001s, n=300164676, sd=33, nps=130110392, hashfull=58, tbhits=5, pv="b7b5 a2a4 b5a4 a1a4 c7c5 f1e3 a8b6 a4a5 c5d4 d1d4 f7f6 e1g1 h7h5 b2b3 h8f7 d4d1 c8b7 c2c4 b6c8 a5a1 h5h4 g3e2 h4h3 g2g3 c8d6 e3g4 f8g7 c1b2 d6e4 b1e4 b7e4 b2f6 e4f5 f6g7 f5g4 g7f6 d8b6 a1a3 b6b4 a3b4 b8b4"}
+4. Nd2 {+1.15/25 2.973s, tl=45.451s, latency=0.000s, n=268689411, sd=59, nps=90376525, hashfull=73, tbhits=970, pv="f1d2 a8b6 a2a4 b5a4 c2c4 c7c5 e4e5 c5d4 e1g1 f8e7 b1a2 c8b7 b2b4 a4b3 a2b3 b6c8 b3c2 d4d3 c2d3 f7f5 e5f6 e7f6 a1a3 h8f7 f1e1 f6e7 c4c5 e8g8 d2e4 d8c7"}
+Bg7 {-0.80/33 9.842s, tl=43.889s, latency=0.000s, n=1231393377, sd=3, nps=125116173, hashfull=254, tbhits=1239, pv="f8g7 e4e5 f7f5 e5f6 d8f6 d2e4 f6e7 c1g5 e7f8 e1g1 a8b6 c2c3 h8f7 f2f4 b5b4 d1e1 b4c3 b2c3 f8a3 g5f6 d7d5 f6g7 d5e4 g7e5 c8a6 e5c7 b8c8 c7b6 a7b6 f1f2 c8c3 b1e4 e8g8 d4d5 e6e5 d5d6 f7d6 e4d5 g8g7 f2f3 a3c5 g1h1 f8c8 e1d1 g7h6 f3c3 c5c3 a1c3 c8c3 f4e5 d6c8 g3e4 c3e3 e4f6 h6g7"}
+5. e5 {+1.17/22 0.886s, tl=45.565s, latency=0.000s, n=96605354, sd=65, nps=109035388, hashfull=16, tbhits=1010, pv="e4e5 a8b6 d2e4 b6d5 e1g1 e8g8 a2a4 b5b4 b1a2 f7f6 e5f6 d5f6 d4d5 f6d5 d1d5 e6d5 c1g5 d8e8 a2d5 h8f7 g5f6 c8b7 d5b7 b8b7 b2b3 f7e5"}
+f5 {-0.73/31 2.103s, tl=42.786s, latency=0.000s, n=287857618, sd=54, nps=136879514, hashfull=50, tbhits=191, pv="f7f5 e5f6 d8f6 d2e4 f6e7 c1g5 e7f8 e1g1 a8b6 c2c3 h8f7 f2f4 b5b4 b1c2 b4c3 b2c3 f8a3 g5f6 c8a6 f1e1 e8g8 c3c4 b6c4 d4d5 e6e5 c2b3 d7d6 f4f5 a3b2 f6g7 g8g7 a1c1 b2c1 d1c1 b8b4 c1c3 g7h8 h2h4 g6f5 g3f5"}
+6. exf6 {+1.02/25 4.241s, tl=42.324s, latency=0.000s, n=413063465, sd=59, nps=97397657, hashfull=101, tbhits=5968, pv="e5f6 d8f6 d2e4 f6e7 c1g5 e7f8 e1g1 a8b6 c2c3 h8f7 f2f4 b5b4 a2a4 d7d5 a4a5 b6c4 b1d3 b4c3 b2c3 f8a3 d3c4 a3a1 d1a1 f7g5 f4g5 d5c4 a1b1 b8b6"}
+Qxf6 {-0.72/30 2.204s, tl=41.582s, latency=0.000s, n=289469461, sd=19, nps=131338230, hashfull=45, tbhits=6139, pv="d8f6 d2e4 f6e7 c1g5 e7f8 e1g1 a8b6 c2c3 h8f7 g5h4 d7d5 e4g5 f7g5 h4g5 f8d6 b1c2 e8g8 a1c1 c8d7 h2h4 e6e5 d4e5 g7e5 h4h5 b8e8 g5h6 f8f7 c1d2 a7a5 f1e1 a5a4 b2b3 g6h5 g3h5 d7g4"}
+7. Nde4 {+0.98/22 1.341s, tl=41.983s, latency=0.000s, n=142229445, sd=48, nps=106062225, hashfull=31, tbhits=1464, pv="d2e4 f6e7 c1g5 e7f8 e1g1 a8b6 c2c3 h8f7 f2f4 b5b4 a2a4 b4c3 b2c3 d7d5 e4c5 f8d6 d1e1 e8g8 g5h4 f7h6 f4f5 g6f5 g3h5 h6g4 h4g3 e6e5 h5g7 f5f4 g7e6 c8e6 g3f4 b6c4 f4g3 f8f1 e1f1 g4e3 f1f2 b8f8 c5e6"}
+Qe7 {-0.73/30 2.200s, tl=40.382s, latency=0.001s, n=303385108, sd=52, nps=137965033, hashfull=41, tbhits=2180, pv="f6e7 c1g5 e7f8 e1g1 a8b6 f1e1 d7d5 e4c5 f8d6 c2c3 h8f7 g5e3 e8g8 f2f3 a7a5 e3f2 e6e5 b1c2 e5d4 c3d4 c8d7 g3e2 b8e8 b2b3 g7h6 f2g3 d6f6 g3c7 h6e3"}
+8. Bg5 {+1.03/20 1.139s, tl=41.844s, latency=-0.001s, n=127191904, sd=58, nps=111571845, hashfull=31, tbhits=1858, pv="c1g5 e7f8 e1g1 a8b6 c2c3 h8f7 f2f4 b5b4 a2a4 b4c3 b2c3 d7d5 a4a5 b6c4 b1d3 f8a3 d3c4 a3a1 d1a1 d5c4 g5f6 e8g8 f1b1 c8b7 f6e7 f8c8 e7c5 b7c6"}
+Qf8 {-0.76/32 2.126s, tl=39.256s, latency=0.000s, n=288052465, sd=12, nps=135490341, hashfull=38, tbhits=5662, pv="e7f8 e1g1 a8b6 c2c3 h8f7 f2f4 b5b4 d1e1 b4c3 b2c3 f8a3 f4f5 f7g5 e4g5 c8a6 f5f6 a6f1 f6f7 e8f8 f7g8r f8g8 e1f1 b6d5 b1c2 a3c3 a1c3 d5c3 g5f3 a7a5 g3e4 c3e2 g1h1 b8b2 c2a4 c7c6 e4c5 b2a2 a4b3 a2b2 b3c4 e2d4 f3d4 g7d4 c5d7 a5a4 d7f8 a4a3 f8e6 d4g7 e6g7 g8g7 f1a1 b2c2 c4d3 c2c3 d3e2 g7f6 h1g1"}
+9. e1g1 {+0.96/22 1.854s, tl=40.990s, latency=-0.001s, n=206094258, sd=69, nps=111102025, hashfull=40, tbhits=3024, pv="e1g1 a8b6 c2c3 h8f7 f2f4 b5b4 a2a4 b4a3 g5h4 f7h6 e4g5 f8e7 g5f3 e7f8 b2b4 c8b7 a1a3 f8f4 h4g5 f4d6 f3e5 h6f5 a3c1 e8g8 g3f5 e6f5 b1a2 b7d5", White makes an illegal move} 0-1
+
+[Event "Hardware Test Pt. 2"]
+[Site "https://www.chess.com/computer-chess-championship"]
+[Date "2026.03.16"]
+[Round "1"]
+[White "Torch"]
+[Black "Stockfish"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "nrbqkbrn/pppppp1p/6p1/8/8/6N1/PPPPPPPP/QBBRKNR1 w KQkq - 0 2"]
+[GameDuration "00:00:44"]
+[GameStartTime "2026-03-16T13:16:55 -0700"]
+[GameEndTime "2026-03-16T13:17:42 -0700"]
+[PlyCount "6"]
+[Termination "illegal move"]
+[TimeControl "60+1"]
+
+2. d4 {+1.09/35 10.044s, tl=51.956s, latency=0.000s, n=1148101248, sd=21, nps=114307173, hashfull=289, tbhits=167, pv="d2d4 e7e6 f1d2 f8g7 c2c3 e8g8 a2a4 f7f5 e2e4 h8f7 d2f3 d7d5 e4e5 c7c5 e1g1 c8d7 f1e1 d8a5 b1c2 b7b5 d4c5 b5b4 c3b4 a5b4 c5c6 d7c6 b2b3 f8c8 f3d4 c6d7 f2f4 b4b7 g3e2 a8c7 c1a3 b7b6"}
+e6 {-1.04/30 17.384s, tl=44.616s, latency=0.000s, n=1621755329, sd=82, nps=93290113, hashfull=405, tbhits=9381, pv="e7e6 e2e4 f7f5 f1d2 f5e4 d2e4 h8f7 e1g1 f8g7 b2b3 e8g8 c2c4 d7d5 e4d2 a8b6 d2f3 d5c4 h2h4 c8d7 h4h5 d7c6 h5g6 h7g6 a1c3 c4b3 a2b3 d8f6 g3e4 f6f5 f3g5 b6d7 b1c2 b8e8 f2f3"}
+3. Nd2 {+1.07/32 3.934s, tl=49.022s, latency=0.001s, n=512645202, sd=49, nps=130344572, hashfull=108, tbhits=0, pv="f1d2 f8g7 c2c3 f7f5 e2e4 e8g8 a2a4 f5e4 b1e4 h8f7 d2f3 a8b6 e4c2 d8e7 e1g1 b6d5 h2h4 b7b6 a1b1 c8a6 f1e1 f7d6 h4h5 f8f3 g2f3 b8f8 h5g6 h7h5 c2e4 d5f4 c1f4 f8f4 g3h5 e7g5 h5g3 d6e4 f3e4 g7h6 g1g2 g5g4 d1d3 a6d3 b1d3 g4g6 e1e3 c7c6 e3f3"}
+Bg7 {-1.02/22 1.088s, tl=44.528s, latency=0.000s, n=110377377, sd=59, nps=101449795, hashfull=24, tbhits=81, pv="f8g7 c2c3 e8g8 a2a4 f7f5 e2e4 f5e4 b1e4 a8b6 a1a2 h8f7 e1g1 a7a5 d2f3 f7d6 f1e1 d6e4 g3e4 d7d6 c3c4 d6d5 c4d5 d8d5 a2a3 c8d7 f3e5 d7a4 e4c3 d5b3 c3a4 b3a3 b2a3 b6a4 e5d7 b7b5 d7b8"}
+4. Nf3 {+1.11/36 9.817s, tl=40.205s, latency=-0.001s, n=1217243361, sd=52, nps=123980786, hashfull=284, tbhits=67, pv="d2f3 f7f5 e2e4 e8g8 e4f5 e6f5 e1g1 d7d5 a2a4 c7c6 f1e1 a8c7 c2c4 h8f7 b1a2 c8e6 c1f4 f7d6 c4d5 e6d5 g3e2 b8c8 e2c3 g8h8 a2d5 c7d5 c3d5 c6d5 a1a2 d6e4 h2h4 h7h6 d1c1 c8c6 c1c6 b7c6"}
+e8g8 {-0.95/26 2.688s, tl=42.840s, latency=0.000s, n=258829687, sd=60, nps=96290806, hashfull=65, tbhits=241, pv="e8g8 e2e4 b7b5 a2a4 c8a6 e1g1 b5a4 f1e1 a8b6 h2h4 a6c4 b1a2 c4a2 a1a2 d8e7 h4h5 h7h6 b2b3 a4b3 a2b3 d7d6 e4e5 f8e8 b3d3 a7a5 c1a3 e7d8 h5g6 f7g6 c2c4 d6d5 c4d5 b6d5 g3e4 g7f8 a3f8", Black makes an illegal move} 1-0
