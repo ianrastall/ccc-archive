@@ -445,3 +445,30 @@
 260317-260317-ccc-25-double-fischer-round-of-16.pgn: CCC 25 Double-Fischer: Round-of-16
 260318-260320-ccc-25-double-fischer-round-of-8.pgn: CCC 25 Double-Fischer: Round-of-8
 260323-260323-ccc-25-double-fischer-finals.pgn: CCC 25 Double-Fischer: Finals
+260427-260507-ccc-hardware-s29-subfi.pgn: CCC Hardware S29 SubFi
+260508-260512-testing-prune-quanticade-and-friends.pgn: Testing: Prune, Quanticade, and Friends
+260521-260523-testing-mcts-is-cool.pgn: Testing: MCTS Is Cool
+260524-260525-21-odds-reckless-vs-stockfish.pgn: 2:1 Odds: Reckless vs Stockfish
+260525-260527-41-odds-reckless-vs-stockfish.pgn: 4:1 Odds: Reckless vs Stockfish
+260527-260528-81-odds-plentychess-vs-stockfish.pgn: 8:1 Odds: PlentyChess vs Stockfish
+260528-260529-81-odds-leela-vs-stockfish.pgn: 8:1 Odds: Leela vs Stockfish
+260602-260605-161-odds-stormphrax-vs-stockfish.pgn: 16:1 Odds: Stormphrax vs Stockfish
+260610-260615-bonus-the-race-for-second.pgn: Bonus: The Race for Second
+260622-260626-heimdall-crash-simulator.pgn: Heimdall Crash Simulator
+260704-260708-original-data-bonus-no-drama-edition.pgn: Original Data Bonus: No Drama Edition
+260712-260713-lc0-ratio-archive-bullet.pgn: Lc0 Ratio Archive: Bullet
+260714-260717-lc0-ratio-archive-blitz.pgn: Lc0 Ratio Archive: Blitz
+260719-260723-lc0-ratio-archive-rapid.pgn: Lc0 Ratio Archive: Rapid
+260724-260726-torch-testing-in-production.pgn: Torch Testing In Production
+260731-260731-zen4-test-pt-1.pgn: Zen4 Test pt. 1
+260731-260731-zen4-test-pt-2.pgn: zen4 Test pt. 2
+260731-260731-zen4-test-pt-3.pgn: Zen4 Test pt. 3
+260731-260801-torch-testing-in-production-zen4.pgn: Torch Testing In Production: Zen4
+260802-260804-zen4-lower-half-testing.pgn: Zen4 Lower-Half Testing
+260805-260807-zen4-upper-half-testing.pgn: Zen4 Upper-Half Testing
+260810-260810-zen4-test-returned-igel-vs-fast-reckless.pgn: Zen4 Test: Returned Igel vs Fast Reckless
+260810-260813-ccc-26-bullet-entry-league.pgn: CCC 26 Bullet: Entry League
+260813-260816-ccc-26-bullet-qualifier-1.pgn: CCC 26 Bullet: Qualifier #1
+260816-260820-ccc-26-bullet-qualifier-2.pgn: CCC 26 Bullet: Qualifier #2
+260820-260824-ccc-26-bullet-qualifier-3.pgn: CCC 26 Bullet: Qualifier #3
+260824-260829-ccc-26-bullet-main.pgn: CCC 26 Bullet: Main
