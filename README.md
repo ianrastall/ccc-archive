@@ -1,5 +1,15 @@
 # ccc-archive
-Zipped PGNs of the Chesscom CCC
+Zipped PGNs of the Chesscom CCC.
+
+## Data and naming
+
+ZIPs live in year folders. Each contains one matching PGN, for example
+`2026/cc_ccc_260824.zip` → `cc_ccc_260824.pgn`. Filenames follow
+`cc_ccc_YYMMDD[a|b|c…].(zip|pgn)`, keyed on the event start date. When two or
+more events share a start date, `a`, `b`, `c…` are assigned in the order the
+events were added to the manifest. The manifest keeps the full `start` and `end`
+date range and the event name; only the filename is compressed to the start
+date.
 
 ## Import local event downloads
 

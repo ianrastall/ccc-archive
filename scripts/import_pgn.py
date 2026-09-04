@@ -57,10 +57,9 @@ def prepare_pgn(content: bytes) -> tuple[bytes, dict, int]:
     start, end = min(starts), max(ends)
     if end < start:
         raise ValueError('Event ends before it starts.')
-    slug = re.sub(r'-+', '-', re.sub(r'[^a-z0-9-]', '', event.lower().replace(' ', '-'))).strip('-')
-    if not slug:
-        raise ValueError('Event name cannot produce an archive filename.')
-    stem = f'{start}-{end}-{slug}'
+    # Filename encodes only the start date; end date and event name stay in metadata.
+    # Collision suffix (a/b/c…) is assigned in main() based on the existing archive.
+    stem = f'cc_ccc_{start}'
     metadata = dict(pgn=f'{stem}.pgn', zip=f'{stem}.zip', year=2000 + int(start[:2]),
                     start=start, end=end, event=event, games=len(kept))
     # Game blocks, engine comments, and unfinished (*) games retain their bytes.
@@ -93,8 +92,18 @@ def main() -> None:
     for source in args.files:
         content = source.read_bytes()
         pgn, entry, skipped = prepare_pgn(content)
+        # Assign the next collision letter for entries sharing the start date.
+        base_stem = f"cc_ccc_{entry['start']}"
+        for suffix in ('', *(chr(c) for c in range(ord('a'), ord('z') + 1))):
+            candidate = f'{base_stem}{suffix}.zip'
+            if candidate not in known:
+                break
+        else:
+            raise ValueError(f'Too many CCC events on {entry["start"]} to disambiguate.')
+        entry['pgn'] = f'{base_stem}{suffix}.pgn'
+        entry['zip'] = candidate
         destination = ROOT / str(entry['year']) / entry['zip']
-        if entry['zip'] in known or destination.exists():
+        if destination.exists():
             raise ValueError(f"Archive already exists: {destination}")
         if any(old['event'].strip() == entry['event'] and old['start'] <= entry['end']
                and entry['start'] <= old['end'] for old in entries):
@@ -110,6 +119,9 @@ def main() -> None:
         if hashlib.sha256(content).hexdigest() != source_hash:
             raise ValueError(f'Source changed during import: {source}')
         pgn, verified, verified_skipped = prepare_pgn(content)
+        # Copy collision-assigned pgn/zip onto the fresh parse before comparing.
+        verified['pgn'] = entry['pgn']
+        verified['zip'] = entry['zip']
         if verified != entry or verified_skipped != skipped:
             raise ValueError(f'Source metadata changed during import: {source}')
         destination = ROOT / str(entry['year']) / entry['zip']
