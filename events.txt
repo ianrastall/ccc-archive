@@ -1,0 +1,480 @@
+ccc_2018-08-31_cccc-1-rapid-rumble-15-5-stage-1.pgn: CCCC 1: Rapid Rumble (15|5) Stage 1
+ccc_2018-09-17_cccc-1-rapid-rumble-15-5-stage-2.pgn: CCCC 1: Rapid Rumble (15|5) Stage 2
+ccc_2018-09-25_cccc-1-rapid-rumble-15-5-stage-3.pgn: CCCC 1: Rapid Rumble (15|5) Stage 3
+ccc_2018-10-03_cccc-1-rapid-rumble-15-5-bonus-games.pgn: CCCC 1: Rapid Rumble (15|5) Bonus Games
+ccc_2018-10-08_2-blitz-battle.pgn: CCC 2: Blitz Battle (5|2)
+ccc_2018-10-31_2-blitz-battle-5-2-stage-2.pgn: CCC 2: Blitz Battle (5|2) Stage 2
+ccc_2018-11-12_2-blitz-battle-5-2-stage-3.pgn: CCC 2: Blitz Battle (5|2) Stage 3
+ccc_2018-11-23_3-rapid-redux.pgn: CCC 3: Rapid Redux (30|5)
+ccc_2018-12-23_3-rapid-redux-stage-2.pgn: CCC 3: Rapid Redux Stage 2 (30|5)
+ccc_2019-01-06_3-rapid-redux-stage-3.pgn: CCC 3: Rapid Redux Stage 3 (30|5)
+ccc_2019-01-27_4-bullet-brawl.pgn: CCC 4: Bullet Brawl (1|2)
+ccc_2019-01-31_5-escalation.pgn: CCC 5: Escalation (10|5)
+ccc_2019-02-08_5-finals.pgn: CCC 5: Finals (10|5)
+ccc_2019-02-16_6-the-winter-classic-stage-1.pgn: CCC 6: The Winter Classic Stage 1 (5|2)
+ccc_2019-02-24_6-the-winter-classic-playoffs.pgn: CCC 6: The Winter Classic Playoffs (10|10)
+ccc_2019-03-09_6-the-winter-classic-final.pgn: CCC 6: The Winter Classic Final (10|10)
+ccc_2019-04-06_7-blitz-bonanza-final.pgn: CCC 7: Blitz Bonanza Final (5|2)
+ccc_2019-04-13_8-deep-dive.pgn: CCC 8: Deep Dive (15|5)
+ccc_2019-05-13_8-deep-dive-finals.pgn: CCC 8: Deep Dive Finals (15|5)
+ccc_2019-06-16_9-the-gauntlet-qualification.pgn: CCC 9: The Gauntlet Qualification (5|2)
+ccc_2019-06-23_9-the-gauntlet-quarterfinals.pgn: CCC 9: The Gauntlet Quarterfinals (5|2)
+ccc_2019-06-30_9-the-gauntlet-semifinals.pgn: CCC 9: The Gauntlet Semifinals (5|2)
+ccc_2019-07-07_9-the-gauntlet-final.pgn: CCC 9: The Gauntlet Final (10|5)
+ccc_2019-09-03_10-quarterfinals.pgn: CCC 10 Quarterfinals (10|3)
+ccc_2019-09-11_10-semifinals.pgn: CCC 10 Semifinals (10|3)
+ccc_2019-09-19_10-finals.pgn: CCC 10 Finals (10|3)
+ccc_2019-10-11_11-qualification.pgn: CCC 11 Qualification (30|5)
+ccc_2019-10-24_11-round-1.pgn: CCC 11 Round 1 (30|5)
+ccc_2019-11-09_11-round-2.pgn: CCC 11 Round 2 (30|5)
+ccc_2019-11-28_11-round-3.pgn: CCC 11 Round 3 (30|5)
+ccc_2019-12-08_11-semifinals.pgn: CCC 11 Semifinals (30|5)
+ccc_2019-12-16_11-finals.pgn: CCC 11 Finals (30|5)
+ccc_2020-01-04_12-0-houdini-vs-stoofvlees.pgn: CCC 12.0: Houdini vs Stoofvlees (1|1)
+ccc_2020-01-05_12-1-rubichess-vs-winter.pgn: CCC 12.1: RubiChess vs. Winter (1|1)
+ccc_2020-01-06_12-2-andscacs-vs-ethereal.pgn: CCC 12.2: Andscacs vs Ethereal (1|1)
+ccc_2020-01-06_12-3-dark-allie-vs-fire.pgn: CCC 12.3: Dark Allie vs Fire (1|1)
+ccc_2020-01-07_12-8-houdini-vs-lc0-cpu.pgn: CCC 12.8: Houdini vs Lc0-CPU (1|1)
+ccc_2020-01-08_12-8-houdini-vs-lc0-cpu.pgn: CCC 12.8: Houdini vs Lc0-CPU! (1|1)
+ccc_2020-01-09_12-72-lc0-vs-rofchade.pgn: CCC 12.72: Lc0 vs Rofchade (1|1)
+ccc_2020-01-10_12-6-stoofvlees-vs-komodo-mc.pgn: CCC 12.6: Stoofvlees vs Komodo MC (1|1)
+ccc_2020-01-11_12-9-leelenstein-vs-rubichess.pgn: CCC 12.9: Leelenstein vs RubiChess (1|1)
+ccc_2020-01-12_12-10-stockfish-vs-ethereal.pgn: CCC 12.10: Stockfish vs Ethereal (1|1)
+ccc_2020-01-13_12-5-scorpio-vs-xiphos.pgn: CCC 12.5: Scorpio vs Xiphos (1|1)
+ccc_2020-01-14_12-4-komodo-vs-laser.pgn: CCC 12.4: Komodo vs Laser (1|1)
+ccc_2020-01-15_12-14-stockfish-vs-stoofvlees.pgn: CCC 12.14: Stockfish vs Stoofvlees (1|1)
+ccc_2020-01-16_12-13-fire-vs-leelenstein.pgn: CCC 12.13: Fire vs Leelenstein (1|1)
+ccc_2020-01-17_12-12-houdini-vs-lc0.pgn: CCC 12.12: Houdini vs Lc0 (1|1)
+ccc_2020-01-19_12-11-komodo-vs-scorpio.pgn: CCC 12.11: Komodo vs Scorpio (1|1)
+ccc_2020-01-20_12-15-leelenstein-vs-scorpio.pgn: CCC 12.15: Leelenstein vs Scorpio (1|1)
+ccc_2020-01-21_12-16-lc0-vs-stockfish.pgn: CCC 12.16: Lc0 vs Stockfish (1|1)
+ccc_2020-01-22_12-18-scorpio-vs-stockfish-third-place-match.pgn: CCC 12.18: Scorpio vs Stockfish (Third-Place Match) (1|1)
+ccc_2020-01-23_12-17-lc0-vs-leelenstein-finals.pgn: CCC 12.17: Lc0 vs Leelenstein (Finals) (1|1)
+ccc_2020-03-07_13-pool-c.pgn: CCC 13: Pool C (3|2)
+ccc_2020-03-14_13-pool-b.pgn: CCC 13: Pool B (3|2)
+ccc_2020-03-18_13-triangular.pgn: CCC 13: Triangular (3|2)
+ccc_2020-03-23_13-heptagonal.pgn: CCC 13: Heptagonal (5|5)
+ccc_2020-04-01_13-semifinals.pgn: CCC 13: Semifinals (10|5)
+ccc_2020-04-08_13-finals.pgn: CCC 13: Finals (15|5)
+ccc_2020-06-03_14-round-1.pgn: CCC 14: Round 1 (15|5)
+ccc_2020-06-10_14-11-rofchade-vs-rubi.pgn: CCC 14.11: rofChade vs Rubi (15|5)
+ccc_2020-06-10_14-9-winter-vs-ethereal.pgn: CCC 14.9: Winter vs Ethereal (15|5)
+ccc_2020-06-11_14-10-dark-queen-vs-xiphos.pgn: CCC 14.10: Dark Queen vs Xiphos (15|5)
+ccc_2020-06-11_14-12-defenchess-vs-komodo-mc.pgn: CCC 14.12: Defenchess vs Komodo MC (15|5)
+ccc_2020-06-12_14-13-lc0-vs-fire.pgn: CCC 14.13: Lc0 vs Fire (15|5)
+ccc_2020-06-12_14-14-stockfish-vs-komodo.pgn: CCC 14.14: Stockfish vs Komodo (15|5)
+ccc_2020-06-13_14-17-ethereal-vs-fire.pgn: CCC 14.17: Ethereal vs Fire (15|5)
+ccc_2020-06-14_14-15-scorpio-vs-stoofvlees.pgn: CCC 14.15: Scorpio vs Stoofvlees (15|5)
+ccc_2020-06-14_14-18-dark-queen-vs-komodo.pgn: CCC 14.18: Dark Queen vs Komodo (15|5)
+ccc_2020-06-15_14-19-scorpio-vs-rofchade.pgn: CCC 14.19: Scorpio vs rofChade (15|5)
+ccc_2020-06-15_14-23-fire-vs-komodo.pgn: CCC 14.23: Fire vs Komodo (15|5)
+ccc_2020-06-23_14-20-lc0-cpu-vs-komodo-mc.pgn: CCC 14.20: Lc0-CPU vs Komodo MC (15|5)
+ccc_2020-06-23_14-20-leelenstein-vs-lc0-cpu.pgn: CCC 14.20: Leelenstein vs Lc0 CPU (15|5)
+ccc_2020-06-24_14-21-lc0-vs-stockfish-ii.pgn: CCC 14.21: Lc0 vs Stockfish II (15|5)
+ccc_2020-06-24_14-21-lc0-vs-stockfish.pgn: CCC 14.21: Lc0 vs Stockfish (15|5)
+ccc_2020-06-25_14-22-stoofvlees-vs-leelenstein.pgn: CCC 14.22: Stoofvlees vs Leelenstein (15|5)
+ccc_2020-06-25_14-24-scorpio-vs-lc0-cpu.pgn: CCC 14.24: Scorpio vs Lc0-CPU (15|5)
+ccc_2020-06-25_14-25-stoofvlees-vs-komodo.pgn: CCC 14.25: Stoofvlees vs Komodo (15|5)
+ccc_2020-06-26_14-24-scorpio-vs-lc0-cpu-tiebreak.pgn: CCC 14.24: Scorpio vs Lc0-CPU (Tiebreak) (15|5)
+ccc_2020-06-26_14-26-lc0-vs-lc0-cpu.pgn: CCC 14.26: Lc0 vs Lc0 CPU (15|5)
+ccc_2020-06-26_14-27-stockfish-vs-leelenstein.pgn: CCC 14.27: Stockfish vs Leelenstein (15|5)
+ccc_2020-06-27_14-27-stockfish-vs-leelenstein-tiebreak-ii.pgn: CCC 14.27: Stockfish vs Leelenstein (Tiebreak II) (5|2)
+ccc_2020-06-27_14-27-stockfish-vs-leelenstein-tiebreak-iii.pgn: CCC 14.27: Stockfish vs Leelenstein (Tiebreak III) (5|2)
+ccc_2020-06-27_14-27-stockfish-vs-leelenstein-tiebreak-iv.pgn: CCC 14.27: Stockfish vs Leelenstein (Tiebreak IV) (1|1)
+ccc_2020-06-27_14-27-stockfish-vs-leelenstein-tiebreak.pgn: CCC 14.27: Stockfish vs Leelenstein (Tiebreak) (15|5)
+ccc_2020-06-27_14-28-lc0-vs-stoofvlees-tiebreak.pgn: CCC 14.28: Lc0 vs Stoofvlees (Tiebreak) (15|5)
+ccc_2020-06-27_14-28-lc0-vs-stoofvlees.pgn: CCC 14.28: Lc0 vs Stoofvlees (15|5)
+ccc_2020-06-28_14-29-stockfish-vs-lc0-tiebreak-ii.pgn: CCC 14.29: Stockfish vs Lc0 (Tiebreak II) (5|2)
+ccc_2020-06-28_14-29-stockfish-vs-lc0-tiebreak.pgn: CCC 14.29: Stockfish vs Lc0 (Tiebreak) (15|5)
+ccc_2020-06-28_14-29-stockfish-vs-lc0.pgn: CCC 14.29: Stockfish vs Lc0 (15|5)
+ccc_2020-06-28_14-30-lc0-vs-leelenstein-i.pgn: CCC 14.30: Lc0 vs Leelenstein I (15|5)
+ccc_2020-06-29_14-30-lc0-vs-leelenstein-i-tiebreak-ii.pgn: CCC 14.30: Lc0 vs Leelenstein I (Tiebreak II) (5|2)
+ccc_2020-06-29_14-30-lc0-vs-leelenstein-i-tiebreak.pgn: CCC 14.30: Lc0 vs Leelenstein I (Tiebreak) (15|5)
+ccc_2020-06-29_14-31-lc0-vs-leelenstein-ii.pgn: CCC 14.31: Lc0 vs Leelenstein II (15|5)
+ccc_2020-06-30_14-31-lc0-vs-leelenstein-ii-tiebreak.pgn: CCC 14.31: Lc0 vs Leelenstein II (Tiebreak) (15|5)
+ccc_2020-08-27_15-02-komodo-mc-vs-lc0-cpu.pgn: CCC 15.02: Komodo MC vs Lc0 CPU (1|1)
+ccc_2020-08-28_15-05-fire-vs-ethereal.pgn: CCC 15.05: Fire vs Ethereal (1|1)
+ccc_2020-08-29_15-08-stockfish-vs-defenchess.pgn: CCC 15.08: Stockfish vs Defenchess (1|1)
+ccc_2020-08-30_15-03-stoofvlees-vs-slowchess.pgn: CCC 15.03: Stoofvlees vs SlowChess (1|1)
+ccc_2020-08-31_15-09-leelenstein-vs-rubichess.pgn: CCC 15.09: Leelenstein vs RubiChess (1|1)
+ccc_2020-09-01_15-06-komodo-vs-xiphos.pgn: CCC 15.06: Komodo vs Xiphos (1|1)
+ccc_2020-09-02_15-07-stockfish-classic-vs-rofchade.pgn: CCC 15.07: Stockfish Classic vs rofChade (1|1)
+ccc_2020-11-12_blitz-championship-2020.pgn: CCC Blitz Championship 2020 (5|5)
+ccc_2020-11-26_blitz-championship-2020-semi-finals.pgn: CCC Blitz Championship 2020: Semi-finals (5|5)
+ccc_2020-12-03_blitz-championship-2020-finals.pgn: CCC Blitz Championship 2020: Finals (5|5)
+ccc_2021-01-15_rapid-2021-qualifiers.pgn: CCC Rapid 2021: Qualifiers (15|3)
+ccc_2021-01-22_rapid-2021-nnue-league.pgn: CCC Rapid 2021: NNUE League (15|3)
+ccc_2021-01-29_rapid-2021-main-league.pgn: CCC Rapid 2021: Main League (15|3)
+ccc_2021-02-06_rapid-2021-nn-vs-classic.pgn: CCC Rapid 2021: NN vs Classic (15|3)
+ccc_2021-02-17_rapid-2021-elite-round.pgn: CCC Rapid 2021: Elite Round (15|3)
+ccc_2021-03-04_rapid-2021-finals.pgn: CCC Rapid 2021: Finals (15|3)
+ccc_2021-08-17_blitz-championship-2021.pgn: CCC Blitz Championship 2021 (5|5)
+ccc_2021-08-31_blitz-championship-2021-semifinals.pgn: CCC Blitz Championship 2021: Semifinals (5|5)
+ccc_2021-09-07_blitz-championship-2021-finals.pgn: CCC Blitz Championship 2021: Finals (5|5)
+ccc_2021-09-24_chess-960-blitz-championship.pgn: CCC Chess 960 Blitz Championship (5|5)
+ccc_2021-10-09_chess-960-blitz-championship-semifinals.pgn: CCC Chess 960 Blitz Championship: Semifinals (5|5)
+ccc_2021-10-17_chess-960-blitz-championship-finals.pgn: CCC Chess 960 Blitz Championship: Finals (5|5)
+ccc_2021-10-25_16-rapid-qualification.pgn: CCC 16 Rapid: Qualification (15|3)
+ccc_2021-11-01_16-rapid-main.pgn: CCC 16 Rapid: Main (15|3)
+ccc_2021-11-08_16-rapid-semifinals.pgn: CCC 16 Rapid: Semifinals (15|3)
+ccc_2021-11-15_16-rapid-finals.pgn: CCC 16 Rapid: Finals (15|3)
+ccc_2021-11-23_16-rapid-runners-up.pgn: CCC 16 Rapid: Runners-up (15|3)
+ccc_2021-12-01_16-bullet-qualification.pgn: CCC 16 Bullet: Qualification (2|1)
+ccc_2021-12-09_16-bullet-main.pgn: CCC 16 Bullet: Main (2|1)
+ccc_2021-12-18_16-bullet-semifinals.pgn: CCC 16 Bullet: Semifinals (2|1)
+ccc_2021-12-27_16-bullet-finals.pgn: CCC 16 Bullet: Finals (2|1)
+ccc_2022-01-09_16-blitz-qualification.pgn: CCC 16 Blitz: Qualification (5|5)
+ccc_2022-01-15_16-blitz-main.pgn: CCC 16 Blitz: Main (5|5)
+ccc_2022-01-23_16-blitz-semifinals.pgn: CCC 16 Blitz: Semifinals (5|5)
+ccc_2022-01-31_16-blitz-challenger.pgn: CCC 16 Blitz: Challenger (5|5)
+ccc_2022-02-08_16-blitz-finals.pgn: CCC 16 Blitz: Finals (5|5)
+ccc_2022-02-20_17-rapid-qualification.pgn: CCC 17 Rapid: Qualification (15|3)
+ccc_2022-02-27_17-rapid-main.pgn: CCC 17 Rapid: Main (15|3)
+ccc_2022-03-06_17-rapid-semifinals.pgn: CCC 17 Rapid: Semifinals (15|3)
+ccc_2022-03-14_17-rapid-challenger.pgn: CCC 17 Rapid: Challenger (15|3)
+ccc_2022-03-22_17-rapid-finals.pgn: CCC 17 Rapid: Finals (15|3)
+ccc_2022-04-04_17-bullet-qualification.pgn: CCC 17 Bullet: Qualification (2|1)
+ccc_2022-04-12_17-bullet-main.pgn: CCC 17 Bullet: Main (2|1)
+ccc_2022-04-21_17-bullet-semifinals.pgn: CCC 17 Bullet: Semifinals (2|1)
+ccc_2022-04-30_17-bullet-challenger.pgn: CCC 17 Bullet: Challenger (2|1)
+ccc_2022-05-09_17-bullet-finals.pgn: CCC 17 Bullet: Finals (2|1)
+ccc_2022-06-01_17-blitz-qualification.pgn: CCC 17 Blitz: Qualification (5|5)
+ccc_2022-06-08_17-blitz-main.pgn: CCC 17 Blitz: Main (5|5)
+ccc_2022-06-16_17-blitz-semifinals.pgn: CCC 17 Blitz: Semifinals (5|5)
+ccc_2022-06-28_17-blitz-challenger.pgn: CCC 17 Blitz: Challenger (5|5)
+ccc_2022-07-05_17-blitz-finals.pgn: CCC 17 Blitz: Finals (5|5)
+ccc_2022-07-17_18-rapid-qualification.pgn: CCC 18 Rapid: Qualification (15|3)
+ccc_2022-07-24_18-rapid-main.pgn: CCC 18 Rapid: Main (15|3)
+ccc_2022-07-31_18-rapid-semifinals.pgn: CCC 18 Rapid: Semifinals (15|3)
+ccc_2022-08-11_18-rapid-finals.pgn: CCC 18 Rapid: Finals (15|3)
+ccc_2022-08-22_18-rapid-challenger.pgn: CCC 18 Rapid: Challenger (15|3)
+ccc_2022-09-08_19-blitz-newcomers.pgn: CCC 19 Blitz: Newcomers (5|5)
+ccc_2022-09-10_19-blitz-qualifier-1.pgn: CCC 19 Blitz: Qualifier #1 (5|5)
+ccc_2022-09-13_19-blitz-qualifier-2.pgn: CCC 19 Blitz: Qualifier #2 (5|5)
+ccc_2022-09-18_19-blitz-main.pgn: CCC 19 Blitz: Main (5|5)
+ccc_2022-09-26_19-blitz-semifinals.pgn: CCC 19 Blitz: Semifinals (5|5)
+ccc_2022-10-01_19-blitz-challenger-match.pgn: CCC 19 Blitz: Challenger Match (5|5)
+ccc_2022-10-09_19-blitz-finals.pgn: CCC 19 Blitz: Finals (5|5)
+ccc_2022-10-13_19-blitz-revenge-for-leela.pgn: CCC 19 Blitz: Revenge for Leela (5|2)
+ccc_2022-10-20_19-rapid-newcomers.pgn: CCC 19 Rapid: Newcomers (15|3)
+ccc_2022-10-25_19-rapid-qualifier-1.pgn: CCC 19 Rapid: Qualifier #1 (15|3)
+ccc_2022-10-29_19-rapid-qualifier-2.pgn: CCC 19 Rapid: Qualifier #2 (15|3)
+ccc_2022-11-02_19-rapid-qualifier-2-tiebreaks.pgn: CCC 19 Rapid: Qualifier #2: Tiebreaks (15|3)
+ccc_2022-11-03_19-rapid-main.pgn: CCC 19 Rapid: Main (15|3)
+ccc_2022-11-10_19-rapid-semifinals.pgn: CCC 19 Rapid: Semifinals (15|3)
+ccc_2022-11-17_19-rapid-challenger-match.pgn: CCC 19 Rapid: Challenger Match (15|3)
+ccc_2022-11-27_19-rapid-finals.pgn: CCC 19 Rapid: Finals (15|3)
+ccc_2022-12-04_19-rapid-alt-finals.pgn: CCC 19 Rapid: Alt Finals (15|3)
+ccc_2022-12-15_19-bullet-newcomers.pgn: CCC 19 Bullet: Newcomers (1|1)
+ccc_2022-12-20_19-bullet-qualifier-1.pgn: CCC 19 Bullet: Qualifier #1 (1|1)
+ccc_2022-12-25_19-bullet-qualifier-2.pgn: CCC 19 Bullet: Qualifier #2 (1|1)
+ccc_2022-12-30_19-bullet-main.pgn: CCC 19 Bullet: Main (1|1)
+ccc_2023-01-07_19-bullet-semifinals.pgn: CCC 19 Bullet: Semifinals (1|1)
+ccc_2023-01-14_19-bullet-challenger-match.pgn: CCC 19 Bullet: Challenger Match (1|1)
+ccc_2023-01-19_19-bullet-finals.pgn: CCC 19 Bullet: Finals (1|1)
+ccc_2023-01-24_19-bullet-alt-finals.pgn: CCC 19 Bullet: Alt Finals (1|1)
+ccc_2023-02-07_20-blitz-newcomers.pgn: CCC 20 Blitz: Newcomers (3|2)
+ccc_2023-02-11_20-blitz-qualifier-1.pgn: CCC 20 Blitz: Qualifier #1 (3|2)
+ccc_2023-02-16_20-blitz-qualifier-2.pgn: CCC 20 Blitz: Qualifier #2 (3|2)
+ccc_2023-02-21_20-blitz-main.pgn: CCC 20 Blitz: Main (3|2)
+ccc_2023-03-05_20-blitz-semifinals.pgn: CCC 20 Blitz: Semifinals (3|2)
+ccc_2023-03-13_20-blitz-challenger-match.pgn: CCC 20 Blitz: Challenger Match (3|2)
+ccc_2023-03-17_20-blitz-fight-for-fourth.pgn: CCC 20 Blitz: Fight for Fourth (3|2)
+ccc_2023-03-19_20-blitz-finals.pgn: CCC 20 Blitz: Finals (3|2)
+ccc_2023-04-05_20-rapid-entry-league.pgn: CCC 20 Rapid: Entry League (10|3)
+ccc_2023-04-10_20-rapid-qualifier-1.pgn: CCC 20 Rapid: Qualifier #1 (10|3)
+ccc_2023-04-15_20-rapid-qualifier-2.pgn: CCC 20 Rapid: Qualifier #2 (10|3)
+ccc_2023-04-20_20-rapid-tiebreaker-1.pgn: CCC 20 Rapid: Tiebreaker #1 (10|3)
+ccc_2023-04-22_20-rapid-main.pgn: CCC 20 Rapid: Main (10|3)
+ccc_2023-05-03_20-rapid-semifinals.pgn: CCC 20 Rapid: Semifinals (10|3)
+ccc_2023-05-22_20-rapid-challenger-match.pgn: CCC 20 Rapid: Challenger Match (10|3)
+ccc_2023-05-27_20-rapid-finals.pgn: CCC 20 Rapid: Finals (10|3)
+ccc_2023-06-10_20-bullet-entry-league.pgn: CCC 20 Bullet: Entry League (1|1)
+ccc_2023-06-14_20-bullet-qualifier-1.pgn: CCC 20 Bullet: Qualifier #1 (1|1)
+ccc_2023-06-19_20-bullet-qualifier-2.pgn: CCC 20 Bullet: Qualifier #2 (1|1)
+ccc_2023-06-25_20-bullet-holding-pattern.pgn: CCC 20 Bullet: Holding Pattern (1|1)
+ccc_2023-06-26_20-bullet-main.pgn: CCC 20 Bullet: Main (1|1)
+ccc_2023-07-05_20-bullet-semifinals.pgn: CCC 20 Bullet: Semifinals (1|1)
+ccc_2023-07-11_20-bullet-challenger-match.pgn: CCC 20 Bullet: Challenger Match (1|1)
+ccc_2023-07-16_20-bullet-finals.pgn: CCC 20 Bullet: Finals (1|1)
+ccc_2023-07-21_21-blitz-entry-league.pgn: CCC 21 Blitz: Entry League (3|2)
+ccc_2023-07-25_21-blitz-qualifier-1.pgn: CCC 21 Blitz: Qualifier #1 (3|2)
+ccc_2023-07-28_21-blitz-qualifier-2.pgn: CCC 21 Blitz: Qualifier #2 (3|2)
+ccc_2023-07-31_21-blitz-main.pgn: CCC 21 Blitz: Main (3|2)
+ccc_2023-08-06_21-blitz-semifinals.pgn: CCC 21 Blitz: Semifinals (3|2)
+ccc_2023-08-13_21-blitz-challenger-match.pgn: CCC 21 Blitz: Challenger Match (3|2)
+ccc_2023-08-18_21-blitz-finals.pgn: CCC 21 Blitz: Finals (3|2)
+ccc_2023-08-23_21-blitz-alt-finals.pgn: CCC 21 Blitz: Alt Finals (3|2)
+ccc_2023-08-29_21-rapid-entry-league.pgn: CCC 21 Rapid: Entry League (10|3)
+ccc_2023-09-03_21-rapid-qualifier-1.pgn: CCC 21 Rapid: Qualifier #1 (10|3)
+ccc_2023-09-09_21-rapid-qualifier-2.pgn: CCC 21 Rapid: Qualifier #2 (10|3)
+ccc_2023-09-14_21-rapid-main.pgn: CCC 21 Rapid: Main (10|3)
+ccc_2023-09-14_21-rapid-tiebreaker-1.pgn: CCC 21 Rapid: Tiebreaker #1 (10|3)
+ccc_2023-09-14_21-rapid-tiebreaker-2.pgn: CCC 21 Rapid: Tiebreaker #2 (10|3)
+ccc_2023-09-14_21-rapid-tiebreaker-3.pgn: CCC 21 Rapid: Tiebreaker #3 (10|3)
+ccc_2023-09-22_21-rapid-semifinals.pgn: CCC 21 Rapid: Semifinals (10|3)
+ccc_2023-10-01_21-rapid-fight-for-fifth.pgn: CCC 21 Rapid: Fight For Fifth (10|3)
+ccc_2023-10-03_21-rapid-challenger-match.pgn: CCC 21 Rapid: Challenger Match (10|3)
+ccc_2023-10-08_21-rapid-finals.pgn: CCC 21 Rapid: Finals (10|3)
+ccc_2023-10-13_21-rapid-alt-finals.pgn: CCC 21 Rapid: Alt Finals (10|3)
+ccc_2023-10-21_classical-cup-1-match-1.pgn: Classical Cup #1: Match 1 (30|5)
+ccc_2023-10-21_classical-cup-1-match-2.pgn: Classical Cup #1: Match 2 (30|5)
+ccc_2023-10-22_classical-cup-1-match-3.pgn: Classical Cup #1: Match 3 (30|5)
+ccc_2023-10-23_classical-cup-1-match-4.pgn: Classical Cup #1: Match 4 (30|5)
+ccc_2023-10-23_classical-cup-1-match-5.pgn: Classical Cup #1: Match 5 (30|5)
+ccc_2023-10-24_classical-cup-1-match-6.pgn: Classical Cup #1: Match 6 (30|5)
+ccc_2023-10-24_classical-cup-1-match-7.pgn: Classical Cup #1: Match 7 (30|5)
+ccc_2023-10-25_classical-cup-1-match-8.pgn: Classical Cup #1: Match 8 (30|5)
+ccc_2023-10-25_classical-cup-1-match-9.pgn: Classical Cup #1: Match 9 (30|5)
+ccc_2023-10-26_classical-cup-1-match-10.pgn: Classical Cup #1: Match 10 (30|5)
+ccc_2023-10-26_classical-cup-1-match-11.pgn: Classical Cup #1: Match 11 (30|5)
+ccc_2023-10-27_classical-cup-1-match-12.pgn: Classical Cup #1: Match 12 (30|5)
+ccc_2023-10-27_classical-cup-1-match-13.pgn: Classical Cup #1: Match 13 (30|5)
+ccc_2023-10-28_classical-cup-1-match-14.pgn: Classical Cup #1: Match 14 (30|5)
+ccc_2023-10-28_classical-cup-1-match-15.pgn: Classical Cup #1: Match 15 (30|5)
+ccc_2023-10-29_rating-brawl-fall-2023.pgn: Rating Brawl: Fall 2023 (1|1)
+ccc_2023-11-06_21-bullet-entry-league.pgn: CCC 21 Bullet: Entry League (1|1)
+ccc_2023-11-10_21-bullet-qualifier-1.pgn: CCC 21 Bullet: Qualifier #1 (1|1)
+ccc_2023-11-15_21-bullet-qualifier-2.pgn: CCC 21 Bullet: Qualifier #2 (1|1)
+ccc_2023-11-20_21-bullet-main.pgn: CCC 21 Bullet: Main (1|1)
+ccc_2023-11-27_21-bullet-semifinals.pgn: CCC 21 Bullet: Semifinals (1|1)
+ccc_2023-12-03_21-bullet-challenger-match.pgn: CCC 21 Bullet: Challenger Match (1|1)
+ccc_2023-12-07_21-bullet-finals.pgn: CCC 21 Bullet: Finals (1|1)
+ccc_2023-12-12_21-bullet-fight-for-4th.pgn: CCC 21 Bullet: Fight for 4th (1|1)
+ccc_2023-12-14_21-bullet-would-be-challenger-match.pgn: CCC 21 Bullet: Would-be Challenger Match (1|1)
+ccc_2023-12-17_22-blitz-entry-league.pgn: CCC 22 Blitz: Entry League (3|2)
+ccc_2023-12-20_22-blitz-qualifier-1.pgn: CCC 22 Blitz: Qualifier #1 (3|2)
+ccc_2023-12-24_22-blitz-qualifier-2.pgn: CCC 22 Blitz: Qualifier #2 (3|2)
+ccc_2023-12-27_22-blitz-main.pgn: CCC 22 Blitz: Main (3|2)
+ccc_2024-01-02_22-blitz-semifinals.pgn: CCC 22 Blitz: Semifinals (3|2)
+ccc_2024-01-09_22-blitz-challenger-match.pgn: CCC 22 Blitz: Challenger Match (3|2)
+ccc_2024-01-13_22-blitz-finals.pgn: CCC 22 Blitz: Finals (3|2)
+ccc_2024-01-18_22-blitz-alt-finals.pgn: CCC 22 Blitz: Alt Finals (3|2)
+ccc_2024-01-22_22-blitz-fight-for-fourth.pgn: CCC 22 Blitz: Fight for Fourth (3|2)
+ccc_2024-01-25_22-rapid-entry-league.pgn: CCC 22 Rapid: Entry League (10|3)
+ccc_2024-01-30_22-rapid-tiebreaker-1.pgn: CCC 22 Rapid: Tiebreaker #1 (10|3)
+ccc_2024-01-31_22-rapid-qualifier-1.pgn: CCC 22 Rapid: Qualifier #1 (10|3)
+ccc_2024-02-05_22-rapid-tiebreaker-2.pgn: CCC 22 Rapid: Tiebreaker #2 (10|3)
+ccc_2024-02-06_22-rapid-qualifier-2.pgn: CCC 22 Rapid: Qualifier #2 (10|2)
+ccc_2024-02-13_22-rapid-main.pgn: CCC 22 Rapid: Main (10|3)
+ccc_2024-02-21_22-rapid-semifinals.pgn: CCC 22 Rapid: Semifinals (10|3)
+ccc_2024-03-01_22-rapid-fight-for-sixth.pgn: CCC 22 Rapid: Fight For Sixth (10|3)
+ccc_2024-03-04_22-rapid-challenger-match.pgn: CCC 22 Rapid: Challenger Match (10|3)
+ccc_2024-03-09_22-rapid-finals.pgn: CCC 22 Rapid: Finals (10|3)
+ccc_2024-03-14_22-rapid-alt-finals.pgn: CCC 22 Rapid: Alt Finals (10|3)
+ccc_2024-03-20_classical-cup-2-match-1.pgn: Classical Cup #2: Match 1 (30|5)
+ccc_2024-03-21_classical-cup-2-match-2.pgn: Classical Cup #2: Match 2 (30|5)
+ccc_2024-03-22_classical-cup-2-match-3.pgn: Classical Cup #2: Match 3 (30|5)
+ccc_2024-03-23_classical-cup-2-match-4.pgn: Classical Cup #2: Match 4 (30|5)
+ccc_2024-03-24_classical-cup-2-match-5.pgn: Classical Cup #2: Match 5 (30|5)
+ccc_2024-03-25_classical-cup-2-match-6.pgn: Classical Cup #2: Match 6 (30|5)
+ccc_2024-03-25_classical-cup-2-tiebreaker-1.pgn: Classical Cup #2: Tiebreaker 1 (10|3)
+ccc_2024-03-26_classical-cup-2-tiebreaker-2.pgn: Classical Cup #2: Tiebreaker 2 (10|3)
+ccc_2024-03-27_classical-cup-2-match-7.pgn: Classical Cup #2: Match 7 (30|5)
+ccc_2024-03-27_classical-cup-2-match-8.pgn: Classical Cup #2: Match 8 (30|5)
+ccc_2024-03-28_classical-cup-2-tiebreaker-3.pgn: Classical Cup #2: Tiebreaker 3 (10|3)
+ccc_2024-03-29_classical-cup-2-match-10.pgn: Classical Cup #2: Match 10 (30|5)
+ccc_2024-03-29_classical-cup-2-match-9.pgn: Classical Cup #2: Match 9 (30|5)
+ccc_2024-03-30_classical-cup-2-match-11.pgn: Classical Cup #2: Match 11 (30|5)
+ccc_2024-03-31_classical-cup-2-match-12.pgn: Classical Cup #2: Match 12 (30|5)
+ccc_2024-04-01_classical-cup-2-match-13.pgn: Classical Cup #2: Match 13 (30|5)
+ccc_2024-04-02_classical-cup-2-match-14.pgn: Classical Cup #2: Match 14 (30|5)
+ccc_2024-04-08_rating-brawl-spring-2024.pgn: Rating Brawl: Spring 2024 (1|1)
+ccc_2024-04-23_22-bullet-entry-league.pgn: CCC 22 Bullet: Entry League (1|1)
+ccc_2024-04-26_22-bullet-qualifier-1.pgn: CCC 22 Bullet: Qualifier #1 (1|1)
+ccc_2024-04-30_22-bullet-qualifier-2.pgn: CCC 22 Bullet: Qualifier #2 (1|1)
+ccc_2024-05-04_22-bullet-qualifier-3.pgn: CCC 22 Bullet: Qualifier #3 (1|1)
+ccc_2024-05-09_22-bullet-main.pgn: CCC 22 Bullet: Main (1|1)
+ccc_2024-05-16_22-bullet-semifinals.pgn: CCC 22 Bullet: Semifinals (1|1)
+ccc_2024-05-21_22-bullet-challenger-match.pgn: CCC 22 Bullet: Challenger Match (1|1)
+ccc_2024-05-25_22-bullet-finals.pgn: CCC 22 Bullet: Finals (1|1)
+ccc_2024-05-30_22-bullet-alt-finals.pgn: CCC 22 Bullet: Alt Finals (1|1)
+ccc_2024-06-03_22-bullet-would-be-challenger-match.pgn: CCC 22 Bullet: Would-be Challenger Match (1|1)
+ccc_2024-06-08_23-blitz-entry-league.pgn: CCC 23 Blitz: Entry League (3|2)
+ccc_2024-06-10_23-blitz-qualifier-1.pgn: CCC 23 Blitz: Qualifier #1 (3|2)
+ccc_2024-06-13_23-blitz-qualifier-2.pgn: CCC 23 Blitz: Qualifier #2 (3|2)
+ccc_2024-06-16_23-blitz-qualifier-3.pgn: CCC 23 Blitz: Qualifier #3 (3|2)
+ccc_2024-06-16_23-blitz-tiebreaker-1.pgn: CCC 23 Blitz: Tiebreaker #1 (3|2)
+ccc_2024-06-20_23-blitz-main.pgn: CCC 23 Blitz: Main (3|2)
+ccc_2024-06-26_23-blitz-tiebreaker-2.pgn: CCC 23 Blitz: Tiebreaker #2 (3|2)
+ccc_2024-06-26_23-blitz-tiebreaker-3.pgn: CCC 23 Blitz: Tiebreaker #3 (3|2)
+ccc_2024-06-26_23-blitz-tiebreaker-4.pgn: CCC 23 Blitz: Tiebreaker #4 (3|2)
+ccc_2024-06-27_23-blitz-semifinals.pgn: CCC 23 Blitz: Semifinals (3|2)
+ccc_2024-07-04_23-blitz-challenger-match.pgn: CCC 23 Blitz: Challenger Match (3|2)
+ccc_2024-07-08_23-blitz-finals.pgn: CCC 23 Blitz: Finals (3|2)
+ccc_2024-07-13_23-blitz-alt-finals.pgn: CCC 23 Blitz: Alt Finals (3|2)
+ccc_2024-07-29_23-rapid-entry-league.pgn: CCC 23 Rapid: Entry League (10|3)
+ccc_2024-08-02_23-rapid-qualifier-1.pgn: CCC 23 Rapid: Qualifier #1 (10|3)
+ccc_2024-08-07_23-rapid-qualifier-2.pgn: CCC 23 Rapid: Qualifier #2 (10|3)
+ccc_2024-08-12_23-rapid-qualifier-3.pgn: CCC 23 Rapid: Qualifier #3 (10|3)
+ccc_2024-08-17_23-rapid-tiebreaker-1.pgn: CCC 23 Rapid: Tiebreaker #1 (10|3)
+ccc_2024-08-18_23-rapid-main.pgn: CCC 23 Rapid: Main (10|3)
+ccc_2024-08-25_23-rapid-semifinals.pgn: CCC 23 Rapid: Semifinals (10|3)
+ccc_2024-09-04_23-rapid-challenger-match.pgn: CCC 23 Rapid: Challenger Match (10|3)
+ccc_2024-09-09_23-rapid-finals.pgn: CCC 23 Rapid: Finals (10|3)
+ccc_2024-09-14_23-rapid-alt-finals.pgn: CCC 23 Rapid: Alt Finals (10|3)
+ccc_2024-09-19_23-rapid-fight-for-fourth.pgn: CCC 23 Rapid: Fight for Fourth (10|3)
+ccc_2024-09-25_classical-cup-3-match-1.pgn: Classical Cup #3: Match 1 (30|5)
+ccc_2024-09-26_classical-cup-3-match-2.pgn: Classical Cup #3: Match 2 (30|5)
+ccc_2024-09-27_classical-cup-3-match-3.pgn: Classical Cup #3: Match 3 (30|5)
+ccc_2024-09-28_classical-cup-3-match-4.pgn: Classical Cup #3: Match 4 (30|5)
+ccc_2024-09-30_classical-cup-3-match-5.pgn: Classical Cup #3: Match 5 (30|5)
+ccc_2024-09-30_classical-cup-3-match-6.pgn: Classical Cup #3: Match 6 (30|5)
+ccc_2024-10-01_classical-cup-3-match-7.pgn: Classical Cup #3: Match 7 (30|5)
+ccc_2024-10-02_classical-cup-3-match-8.pgn: Classical Cup #3: Match 8 (30|5)
+ccc_2024-10-03_classical-cup-3-match-8-1.pgn: Classical Cup #3: Match 8.1 (10|3)
+ccc_2024-10-03_classical-cup-3-match-9.pgn: Classical Cup #3: Match 9 (30|5)
+ccc_2024-10-04_classical-cup-3-match-10.pgn: Classical Cup #3: Match 10 (30|5)
+ccc_2024-10-06_classical-cup-3-match-11.pgn: Classical Cup #3: Match 11 (30|5)
+ccc_2024-10-07_classical-cup-3-match-12.pgn: Classical Cup #3: Match 12 (30|5)
+ccc_2024-10-08_classical-cup-3-match-13.pgn: Classical Cup #3: Match 13 (30|5)
+ccc_2024-10-09_classical-cup-3-match-13-1.pgn: Classical Cup #3: Match 13.1 (10|3)
+ccc_2024-10-10_classical-cup-3-match-14.pgn: Classical Cup #3: Match 14 (30|5)
+ccc_2024-10-16_rating-brawl-fall-2024.pgn: Rating Brawl: Fall 2024 (1|1)
+ccc_2024-10-28_23-bullet-entry-league.pgn: CCC 23 Bullet: Entry League (1|1)
+ccc_2024-11-03_23-bullet-qualifier-1.pgn: CCC 23 Bullet: Qualifier #1 (1|1)
+ccc_2024-11-07_23-bullet-qualifier-2.pgn: CCC 23 Bullet: Qualifier #2 (1|1)
+ccc_2024-11-12_23-bullet-qualifier-3.pgn: CCC 23 Bullet: Qualifier #3 (1|1)
+ccc_2024-11-16_23-bullet-tiebreaker-1.pgn: CCC 23 Bullet: Tiebreaker #1 (1|1)
+ccc_2024-11-17_23-bullet-main.pgn: CCC 23 Bullet: Main (1|1)
+ccc_2024-11-25_23-bullet-semifinals.pgn: CCC 23 Bullet: Semifinals (1|1)
+ccc_2024-11-30_23-bullet-challenger-match.pgn: CCC 23 Bullet: Challenger Match (1|1)
+ccc_2024-12-05_23-bullet-finals.pgn: CCC 23 Bullet: Finals (1|1)
+ccc_2024-12-10_23-bullet-alt-finals.pgn: CCC 23 Bullet: Alt Finals (1|1)
+ccc_2024-12-15_23-bullet-alt-challenger-match.pgn: CCC 23 Bullet: Alt Challenger Match (1|1)
+ccc_2024-12-19_24-blitz-entry-league.pgn: CCC 24 Blitz: Entry League (3|2)
+ccc_2024-12-23_24-blitz-qualifier-1.pgn: CCC 24 Blitz: Qualifier #1 (3|2)
+ccc_2024-12-26_24-blitz-qualifier-2.pgn: CCC 24 Blitz: Qualifier #2 (3|2)
+ccc_2024-12-30_24-blitz-qualifier-3.pgn: CCC 24 Blitz: Qualifier #3 (3|2)
+ccc_2025-01-02_24-blitz-main.pgn: CCC 24 Blitz: Main (3|2)
+ccc_2025-01-07_24-blitz-semifinals.pgn: CCC 24 Blitz: Semifinals (3|2)
+ccc_2025-01-15_24-blitz-challenger-match.pgn: CCC 24 Blitz: Challenger Match (3|2)
+ccc_2025-01-19_24-blitz-finals.pgn: CCC 24 Blitz: Finals (3|2)
+ccc_2025-01-23_24-blitz-alt-finals.pgn: CCC 24 Blitz: Alt Finals (3|2)
+ccc_2025-01-28_24-blitz-alt-challenger.pgn: CCC 24 Blitz: Alt Challenger (3|2)
+ccc_2025-02-01_24-rapid-entry-league.pgn: CCC 24 Rapid: Entry League (10|3)
+ccc_2025-02-05_24-rapid-qualifier-1.pgn: CCC 24 Rapid: Qualifier #1 (10|3)
+ccc_2025-02-10_24-rapid-qualifier-2.pgn: CCC 24 Rapid: Qualifier #2 (10|3)
+ccc_2025-02-15_24-rapid-qualifier-3.pgn: CCC 24 Rapid: Qualifier #3 (10|3)
+ccc_2025-02-20_24-rapid-main.pgn: CCC 24 Rapid: Main (10|3)
+ccc_2025-02-27_24-rapid-semifinals.pgn: CCC 24 Rapid: Semifinals (10|3)
+ccc_2025-03-09_24-rapid-challenger-match.pgn: CCC 24 Rapid: Challenger Match (10|3)
+ccc_2025-03-14_24-rapid-finals.pgn: CCC 24 Rapid: Finals (10|3)
+ccc_2025-03-19_24-rapid-would-be-challenger-match.pgn: CCC 24 Rapid: Would-be Challenger Match (10|3)
+ccc_2025-03-24_24-rapid-would-be-alt-finals.pgn: CCC 24 Rapid: Would-be Alt Finals (10|3)
+ccc_2025-03-29_classical-cup-4-match-1.pgn: Classical Cup #4: Match 1 (30|5)
+ccc_2025-03-30_classical-cup-4-match-2.pgn: Classical Cup #4: Match 2 (30|5)
+ccc_2025-03-31_classical-cup-4-match-3.pgn: Classical Cup #4: Match 3 (30|5)
+ccc_2025-04-01_classical-cup-4-match-4.pgn: Classical Cup #4: Match 4 (30|5)
+ccc_2025-04-01_classical-cup-4-match-5.pgn: Classical Cup #4: Match 5 (30|5)
+ccc_2025-04-03_classical-cup-4-match-6.pgn: Classical Cup #4: Match 6 (30|5)
+ccc_2025-04-03_classical-cup-4-match-7.pgn: Classical Cup #4: Match 7 (30|5)
+ccc_2025-04-04_classical-cup-4-match-8.pgn: Classical Cup #4: Match 8 (30|5)
+ccc_2025-04-05_classical-cup-4-match-10.pgn: Classical Cup #4: Match 10 (30|5)
+ccc_2025-04-06_classical-cup-4-match-9.pgn: Classical Cup #4: Match 9 (30|5)
+ccc_2025-04-07_classical-cup-4-match-11.pgn: Classical Cup #4: Match 11 (30|5)
+ccc_2025-04-08_classical-cup-4-match-12.pgn: Classical Cup #4: Match 12 (30|5)
+ccc_2025-04-09_classical-cup-4-match-13.pgn: Classical Cup #4: Match 13 (30|5)
+ccc_2025-04-10_classical-cup-4-match-14.pgn: Classical Cup #4: Match 14 (30|5)
+ccc_2025-04-18_bullet-brawl-spring-2025.pgn: Bullet Brawl: Spring 2025 (1|1)
+ccc_2025-04-24_24-bullet-entry-league.pgn: CCC 24 Bullet: Entry League (1|1)
+ccc_2025-04-27_24-bullet-qualifier-1.pgn: CCC 24 Bullet: Qualifier #1 (1|1)
+ccc_2025-05-01_24-bullet-qualifier-2.pgn: CCC 24 Bullet: Qualifier #2 (1|1)
+ccc_2025-05-06_24-bullet-qualifier-3.pgn: CCC 24 Bullet: Qualifier #3 (1|1)
+ccc_2025-05-11_24-bullet-main.pgn: CCC 24 Bullet: Main (1|1)
+ccc_2025-05-11_24-bullet-tiebreaker-1.pgn: CCC 24 Bullet: Tiebreaker #1 (1|1)
+ccc_2025-05-18_24-bullet-semifinals.pgn: CCC 24 Bullet: Semifinals (1|1)
+ccc_2025-05-23_24-bullet-challenger-match.pgn: CCC 24 Bullet: Challenger Match (1|1)
+ccc_2025-05-28_24-bullet-finals.pgn: CCC 24 Bullet: Finals (1|1)
+ccc_2025-06-02_24-bullet-would-be-challenger-match.pgn: CCC 24 Bullet: Would-be Challenger Match (1|1)
+ccc_2025-06-07_24-bullet-third-place-throwdown.pgn: CCC 24 Bullet: Third Place Throwdown (1|1)
+ccc_2025-08-06_v2-testing-pt-3.pgn: CCC v2 Testing pt. 3
+ccc_2025-08-06_v2-testing-pt-4.pgn: CCC v2 Testing pt. 4
+ccc_2025-08-06_v2-testing-pt-5.pgn: CCC v2 Testing pt. 5
+ccc_2025-08-06_v2-testing-pt-6.pgn: CCC v2 Testing pt. 6
+ccc_2025-08-07_v2-testing-pt-9.pgn: CCC v2 Testing pt. 9
+ccc_2025-08-11_v2-testing-pt-10.pgn: CCC v2 Testing pt. 10
+ccc_2025-08-18_v2-testing-pt-11.pgn: CCC v2 Testing pt. 11
+ccc_2025-09-02_rawing-brawl-fall-2025.pgn: Rawing Brawl: Fall 2025
+ccc_2025-09-05_v2-testing-pt-12.pgn: CCC v2 Testing pt. 12
+ccc_2025-09-15_v2-testing-pt-13.pgn: CCC v2 Testing pt. 13
+ccc_2025-09-17_v2-testing-pt-14.pgn: CCC v2 Testing pt. 14
+ccc_2025-09-22_v2-testing-pt-16.pgn: CCC v2 Testing pt. 16
+ccc_2025-09-22_v2-testing-pt-17.pgn: CCC v2 Testing pt. 17
+ccc_2025-09-22_v2-testing-pt-18.pgn: CCC v2 Testing pt. 18
+ccc_2025-09-22_v2-testing-pt-19.pgn: CCC v2 Testing pt. 19
+ccc_2025-09-22_v2-testing-pt-20.pgn: CCC v2 Testing pt. 20
+ccc_2025-09-22_v2-testing-pt-21.pgn: CCC v2 Testing pt. 21
+ccc_2025-09-22_v2-testing-pt-22.pgn: CCC v2 Testing pt. 22
+ccc_2025-09-23_25-blitz-entry-league.pgn: CCC 25 Blitz: Entry League
+ccc_2025-09-23_v2-testing-pt-23.pgn: CCC v2 Testing pt. 23
+ccc_2025-09-24_25-blitz-qualifier-1.pgn: CCC 25 Blitz: Qualifier #1
+ccc_2025-09-28_25-blitz-qualifier-2.pgn: CCC 25 Blitz: Qualifier #2
+ccc_2025-10-01_25-blitz-qualifier-3.pgn: CCC 25 Blitz: Qualifier #3
+ccc_2025-10-05_25-blitz-main.pgn: CCC 25 Blitz: Main
+ccc_2025-10-10_25-blitz-semifinals.pgn: CCC 25 Blitz: Semifinals
+ccc_2025-10-10_v2-testing-pt-24.pgn: CCC v2 Testing pt. 24
+ccc_2025-10-17_25-blitz-challenger-match.pgn: CCC 25 Blitz: Challenger Match
+ccc_2025-10-26_25-blitz-finals.pgn: CCC 25 Blitz: Finals
+ccc_2025-10-30_25-blitz-torch-vs-leela.pgn: CCC 25 Blitz: Torch vs Leela
+ccc_2025-11-04_rating-brawl-fall-2025.pgn: Rating Brawl: Fall 2025
+ccc_2025-11-19_25-rapid-qualifier-1.pgn: CCC 25 Rapid: Qualifier #1
+ccc_2025-11-29_25-rapid-qualifier-2.pgn: CCC 25 Rapid: Qualifier #2
+ccc_2025-12-08_25-rapid-qualifier-3.pgn: CCC 25 Rapid: Qualifier #3
+ccc_2025-12-16_main-event-waiting-room.pgn: Main Event Waiting Room
+ccc_2025-12-18_v2-testing-leela-update.pgn: CCC v2 Testing: Leela Update
+ccc_2025-12-23_25-rapid-main.pgn: CCC 25 Rapid: Main
+ccc_2025-12-23_v2-testing-leela-take-3.pgn: CCC v2 Testing: Leela take #3
+ccc_2026-01-02_25-rapid-semifinals.pgn: CCC 25 Rapid: Semifinals
+ccc_2026-01-11_25-rapid-challenger-match.pgn: CCC 25 Rapid: Challenger Match
+ccc_2026-01-16_25-rapid-finals.pgn: CCC 25 Rapid: Finals
+ccc_2026-01-21_25-rapid-fight-for-fourth.pgn: CCC 25 Rapid: Fight for Fourth
+ccc_2026-01-26_25-rapid-torch-vs-leela.pgn: CCC 25 Rapid: Torch vs Leela
+ccc_2026-02-01_25-bullet-qualifier-1.pgn: CCC 25 Bullet: Qualifier #1
+ccc_2026-02-05_25-bullet-qualifier-2.pgn: CCC 25 Bullet: Qualifier #2
+ccc_2026-02-09_25-bullet-qualifier-3.pgn: CCC 25 Bullet: Qualifier #3
+ccc_2026-02-12_testing-totally-will-work.pgn: CCC Testing: Totally will work
+ccc_2026-02-14_25-bullet-main.pgn: CCC 25 Bullet: Main
+ccc_2026-02-19_25-bullet-semifinals.pgn: CCC 25 Bullet: Semifinals
+ccc_2026-02-23_25-bullet-challenger-match.pgn: CCC 25 Bullet: Challenger Match
+ccc_2026-02-26_25-bullet-finals.pgn: CCC 25 Bullet: Finals
+ccc_2026-03-02_25-bullet-alt-finals.pgn: CCC 25 Bullet: Alt Finals
+ccc_2026-03-05_25-bullet-record-keeping.pgn: CCC 25 Bullet: Record Keeping
+ccc_2026-03-09_25-double-fischer-round-of-16.pgn: CCC 25 Double-Fischer: Round-of-16
+ccc_2026-03-16_hardware-test-pt-2.pgn: Hardware Test Pt. 2
+ccc_2026-03-16_hardware-testing-pt-3.pgn: Hardware Testing pt. 3
+ccc_2026-03-17_25-double-fischer-stormphrax-vs-viridithas.pgn: CCC 25 Double-Fischer: Stormphrax vs Viridithas
+ccc_2026-03-18_25-double-fischer-round-of-8.pgn: CCC 25 Double-Fischer: Round-of-8
+ccc_2026-03-21_25-double-fischer-finals.pgn: CCC 25 Double-Fischer: Finals
+ccc_2026-04-27_hardware-s29-subfi.pgn: CCC Hardware S29 SubFi
+ccc_2026-05-08_testing-prune-quanticade-and-friends.pgn: Testing: Prune, Quanticade, and Friends
+ccc_2026-05-21_testing-mcts-is-cool.pgn: Testing: MCTS Is Cool
+ccc_2026-05-24_2-1-odds-reckless-vs-stockfish.pgn: 2:1 Odds: Reckless vs Stockfish
+ccc_2026-05-25_4-1-odds-reckless-vs-stockfish.pgn: 4:1 Odds: Reckless vs Stockfish
+ccc_2026-05-27_8-1-odds-plentychess-vs-stockfish.pgn: 8:1 Odds: PlentyChess vs Stockfish
+ccc_2026-05-28_8-1-odds-leela-vs-stockfish.pgn: 8:1 Odds: Leela vs Stockfish
+ccc_2026-06-02_16-1-odds-stormphrax-vs-stockfish.pgn: 16:1 Odds: Stormphrax vs Stockfish
+ccc_2026-06-10_bonus-the-race-for-second.pgn: Bonus: The Race for Second
+ccc_2026-06-22_heimdall-crash-simulator.pgn: Heimdall Crash Simulator
+ccc_2026-07-04_original-data-bonus-no-drama-edition.pgn: Original Data Bonus: No Drama Edition
+ccc_2026-07-12_lc0-ratio-archive-bullet.pgn: Lc0 Ratio Archive: Bullet
+ccc_2026-07-14_lc0-ratio-archive-blitz.pgn: Lc0 Ratio Archive: Blitz
+ccc_2026-07-19_lc0-ratio-archive-rapid.pgn: Lc0 Ratio Archive: Rapid
+ccc_2026-07-24_torch-testing-in-production.pgn: Torch Testing In Production
+ccc_2026-07-31_torch-testing-in-production-zen4.pgn: Torch Testing In Production: Zen4
+ccc_2026-07-31_zen4-test-pt-1.pgn: Zen4 Test pt. 1
+ccc_2026-07-31_zen4-test-pt-2.pgn: zen4 Test pt. 2
+ccc_2026-07-31_zen4-test-pt-3.pgn: Zen4 Test pt. 3
+ccc_2026-08-02_zen4-lower-half-testing.pgn: Zen4 Lower-Half Testing
+ccc_2026-08-05_zen4-upper-half-testing.pgn: Zen4 Upper-Half Testing
+ccc_2026-08-10_26-bullet-entry-league.pgn: CCC 26 Bullet: Entry League
+ccc_2026-08-10_zen4-test-returned-igel-vs-fast-reckless.pgn: Zen4 Test: Returned Igel vs Fast Reckless
+ccc_2026-08-13_26-bullet-qualifier-1.pgn: CCC 26 Bullet: Qualifier #1
+ccc_2026-08-16_26-bullet-qualifier-2.pgn: CCC 26 Bullet: Qualifier #2
+ccc_2026-08-20_26-bullet-qualifier-3.pgn: CCC 26 Bullet: Qualifier #3
+ccc_2026-08-24_26-bullet-main.pgn: CCC 26 Bullet: Main
+ccc_2026-08-29_26-bullet-semifinals.pgn: CCC 26 Bullet: Semifinals
+ccc_2026-09-04_26-bullet-challenger-match.pgn: CCC 26 Bullet: Challenger Match
+ccc_2026-09-07_26-bullet-finals.pgn: CCC 26 Bullet: Finals
+ccc_2026-09-11_26-blitz-entry-league.pgn: CCC 26 Blitz: Entry League
+ccc_2026-09-15_26-blitz-qualifier-1.pgn: CCC 26 Blitz: Qualifier #1
