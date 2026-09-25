@@ -478,3 +478,4 @@ ccc_2026-09-04_26-bullet-challenger-match.pgn: CCC 26 Bullet: Challenger Match
 ccc_2026-09-07_26-bullet-finals.pgn: CCC 26 Bullet: Finals
 ccc_2026-09-11_26-blitz-entry-league.pgn: CCC 26 Blitz: Entry League
 ccc_2026-09-15_26-blitz-qualifier-1.pgn: CCC 26 Blitz: Qualifier #1
+ccc_2026-09-19_26-blitz-qualifier-2.pgn: CCC 26 Blitz: Qualifier #2
