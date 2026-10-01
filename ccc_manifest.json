@@ -5289,5 +5289,16 @@
     "games": 528,
     "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-09-19_26-blitz-qualifier-2.zip",
     "sha256": "db05b79ab516609b751c6de59f17f61626ca7ea0ddb2ba58eba186821399c5f6"
+  },
+  {
+    "pgn": "ccc_2026-09-23_26-blitz-qualifier-3.pgn",
+    "zip": "ccc_2026-09-23_26-blitz-qualifier-3.zip",
+    "year": 2026,
+    "start": "260923",
+    "end": "260928",
+    "event": "CCC 26 Blitz: Qualifier #3",
+    "games": 528,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-09-23_26-blitz-qualifier-3.zip",
+    "sha256": "181fa0b371804482b00e882dc05afc0bb2d6f93a8fcb3487d8c6c2d4344b31f8"
   }
 ]
