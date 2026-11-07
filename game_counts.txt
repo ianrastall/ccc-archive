@@ -481,6 +481,8 @@ ccc_2026-09-15_26-blitz-qualifier-1.pgn: 528
 ccc_2026-09-19_26-blitz-qualifier-2.pgn: 528
 ccc_2026-09-23_26-blitz-qualifier-3.pgn: 528
 ccc_2026-09-28_26-blitz-main.pgn: 792
+ccc_2026-10-04_26-blitz-semifinals.pgn: 899
 ccc_2026-10-11_26-blitz-fight-for-fourth.pgn: 250
 ccc_2026-10-13_26-blitz-challenger-match.pgn: 500
 ccc_2026-10-18_26-blitz-finals.pgn: 500
+ccc_2026-10-22_26-rapid-entry-league.pgn: 480
