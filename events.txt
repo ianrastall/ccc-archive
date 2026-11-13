@@ -486,3 +486,5 @@ ccc_2026-10-11_26-blitz-fight-for-fourth.pgn: CCC 26 Blitz: Fight for Fourth
 ccc_2026-10-13_26-blitz-challenger-match.pgn: CCC 26 Blitz: Challenger Match
 ccc_2026-10-18_26-blitz-finals.pgn: CCC 26 Blitz: Finals
 ccc_2026-10-22_26-rapid-entry-league.pgn: CCC 26 Rapid: Entry League
+ccc_2026-11-02_26-rapid-qualifier-1.pgn: CCC 26 Rapid: Qualifier #1
+ccc_2026-11-10_26-rapid-qualifier-2.pgn: CCC 26 Rapid: Qualifier #2

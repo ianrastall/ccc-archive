@@ -486,3 +486,5 @@ https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-10-11_26-blitz-
 https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-10-13_26-blitz-challenger-match.zip
 https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-10-18_26-blitz-finals.zip
 https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-10-22_26-rapid-entry-league.zip
+https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-11-02_26-rapid-qualifier-1.zip
+https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-11-10_26-rapid-qualifier-2.zip

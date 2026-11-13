@@ -5366,5 +5366,27 @@
     "games": 480,
     "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-10-22_26-rapid-entry-league.zip",
     "sha256": "d84e1d845560225c27fc45be8a24b2451190cebd9bad2fc3ebb88088737ae129"
+  },
+  {
+    "pgn": "ccc_2026-11-02_26-rapid-qualifier-1.pgn",
+    "zip": "ccc_2026-11-02_26-rapid-qualifier-1.zip",
+    "year": 2026,
+    "start": "261102",
+    "end": "261110",
+    "event": "CCC 26 Rapid: Qualifier #1",
+    "games": 396,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-11-02_26-rapid-qualifier-1.zip",
+    "sha256": "7353acda31f1ce8a738401d9a83ca3095eb91bf94f5c0a8175ade668faf7843e"
+  },
+  {
+    "pgn": "ccc_2026-11-10_26-rapid-qualifier-2.pgn",
+    "zip": "ccc_2026-11-10_26-rapid-qualifier-2.zip",
+    "year": 2026,
+    "start": "261110",
+    "end": "261112",
+    "event": "CCC 26 Rapid: Qualifier #2",
+    "games": 131,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-11-10_26-rapid-qualifier-2.zip",
+    "sha256": "21eba80d683031c128786b4d8f5a9d6bd6f525ae38220ad0b58de5806c547958"
   }
 ]
