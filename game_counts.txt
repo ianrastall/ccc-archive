@@ -486,5 +486,8 @@ ccc_2026-10-11_26-blitz-fight-for-fourth.pgn: 250
 ccc_2026-10-13_26-blitz-challenger-match.pgn: 500
 ccc_2026-10-18_26-blitz-finals.pgn: 500
 ccc_2026-10-22_26-rapid-entry-league.pgn: 480
+ccc_2026-10-31_testing-stockdory-pt-2.pgn: 20
 ccc_2026-11-02_26-rapid-qualifier-1.pgn: 396
 ccc_2026-11-10_26-rapid-qualifier-2.pgn: 131
+ccc_2026-11-18_fry-test-pt-1.pgn: 2
+ccc_2026-11-18_fry-test-pt-2.pgn: 50

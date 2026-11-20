@@ -5368,6 +5368,17 @@
     "sha256": "d84e1d845560225c27fc45be8a24b2451190cebd9bad2fc3ebb88088737ae129"
   },
   {
+    "pgn": "ccc_2026-10-31_testing-stockdory-pt-2.pgn",
+    "zip": "ccc_2026-10-31_testing-stockdory-pt-2.zip",
+    "year": 2026,
+    "start": "261031",
+    "end": "261101",
+    "event": "Testing: StockDory pt. 2",
+    "games": 20,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-10-31_testing-stockdory-pt-2.zip",
+    "sha256": "015ee762e616c5e71b8c0bad4219aa30de26b2ed0de250b94ddaeaab2fabc7bd"
+  },
+  {
     "pgn": "ccc_2026-11-02_26-rapid-qualifier-1.pgn",
     "zip": "ccc_2026-11-02_26-rapid-qualifier-1.zip",
     "year": 2026,
@@ -5388,5 +5399,27 @@
     "games": 131,
     "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-11-10_26-rapid-qualifier-2.zip",
     "sha256": "21eba80d683031c128786b4d8f5a9d6bd6f525ae38220ad0b58de5806c547958"
+  },
+  {
+    "pgn": "ccc_2026-11-18_fry-test-pt-1.pgn",
+    "zip": "ccc_2026-11-18_fry-test-pt-1.zip",
+    "year": 2026,
+    "start": "261118",
+    "end": "261118",
+    "event": "Fry Test: pt. 1",
+    "games": 2,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-11-18_fry-test-pt-1.zip",
+    "sha256": "9a4a9852a78314c5c75474e1b33cf0866e6fde6b25c362cf66cc1cec63b14cd4"
+  },
+  {
+    "pgn": "ccc_2026-11-18_fry-test-pt-2.pgn",
+    "zip": "ccc_2026-11-18_fry-test-pt-2.zip",
+    "year": 2026,
+    "start": "261118",
+    "end": "261118",
+    "event": "Fry Test: pt. 2",
+    "games": 50,
+    "url": "https://github.com/ianrastall/ccc-archive/raw/main/2026/ccc_2026-11-18_fry-test-pt-2.zip",
+    "sha256": "66358fb32d512dd6ec3ce345372b5481e5adbbefc3f499cc3e8c3ce5eaf3ff98"
   }
 ]
